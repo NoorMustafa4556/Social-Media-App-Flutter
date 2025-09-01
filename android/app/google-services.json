@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307158907280",
+    "project_id": "my-social-media-app4566",
+    "storage_bucket": "my-social-media-app4566.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307158907280:android:1c87522aec513f74d29b15",
+        "android_client_info": {
+          "package_name": "com.microcode.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Ztm2pLVh4cV_oZHkPDOKYAIV9UQK9vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
