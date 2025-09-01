@@ -1,89 +1,73 @@
+# 📱 Flutter Social Media App  
 
-
-
-#  Social Media App (Flutter + Provider + Firebase)
-
-A full-featured **social media application** built with Flutter and Firebase, featuring secure authentication, user profiles with follow/unfollow, posts and resharing, real-time likes/comments, dark/light mode, and clean state management via **Provider**. Built with clean architecture for scalability and maintainability.
+A **modern Flutter-based social media application** that allows users to connect, share, and interact in real-time.  
+Built with **Flutter** and **Dart**, this project demonstrates the complete workflow of a social networking app — from authentication to posting, liking, and chatting.  
 
 ---
 
-##  Features
-
--  **User Authentication** – Register, login, and maintain user sessions securely via Firebase.
--  **Profiles** – Follow/unfollow users and update profile info including posts.
--  **Posting System** – Create public/private posts with images.
--  **Reshare Mechanism** – Reshare content across the app.
--  **Real-Time Interactions** – Like and comment on posts instantly (real-time sync).
--  **Dark & Light Themes** – Toggle between light and dark modes dynamically.
--  **State Management** – Seamless state handling using the `provider` package.
-
----
-
-##  Architectural Flow
-
-1. **View** (UI) interacts through user actions (e.g., posting, liking).
-2. **Provider (ViewModel)** processes logic and updates application state.
-3. **Firebase Backend** manages authentication, Firestore for data, and Storage for media.
-4. State changes flow back via Provider, triggering UI rebuilds for smooth user experience.
-
----
-
-##  Tech Stack
-
-| Component             | Technology        |
-|----------------------|-------------------|
-| Framework            | Flutter           |
-| State Management     | Provider          |
-| Authentication       | Firebase Auth     |
-| Database             | Cloud Firestore   |
-| Image Storage        | Firebase Storage  |
-| UI Themes            | Dynamic (Light/Dark) |
-| Real-Time Updates    | Firestore + Streams |
-
----
-
-<h2 align="center">📷 App Screenshots</h2>
+## ✨ App Screenshots  
 
 <p align="center">
-  <img src="assets/images/1.png" width="30%"/>
-  <img src="assets/images/2.png" width="30%"/>
-  <img src="assets/images/3.png" width="30%"/>
-  
-  <img src="assets/images/4.png" width="30%"/>
-  <img src="assets/images/5.png" width="30%"/>
-  <img src="assets/images/6.png" width="30%"/>
-  
-  <img src="assets/images/7.png" width="30%"/>
-  <img src="assets/images/8.png" width="30%"/>
-  <img src="assets/images/9.png" width="30%"/>
-  
-  <img src="assets/images/10.png" width="30%"/>
-  <img src="assets/images/11.png" width="30%"/>
-  <img src="assets/images/12.png" width="30%"/>
-  
-  <img src="assets/images/13.png" width="30%"/>
-  <img src="assets/images/14.png" width="30%"/>
-  <img src="assets/images/15.png" width="30%"/>
-  
-  <img src="assets/images/16.png" width="30%"/>
-  <img src="assets/images/17.png" width="30%"/>
-  <img src="assets/images/18.png" width="30%"/>
-  
-  <img src="assets/images/19.png" width="30%"/>
-  <img src="assets/images/20.png" width="30%"/>
-</p>
-
+  <img src="assets/screenshots/1.png" alt="Screenshot 1" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/2.png" alt="Screenshot 2" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/3.png" alt="Screenshot 3" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/4.png" alt="Screenshot 4" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/5.png" alt="Screenshot 5" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/6.png" alt="Screenshot 6" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/7.png" alt="Screenshot 7" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/8.png" alt="Screenshot 8" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/9.png" alt="Screenshot 9" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/10.png" alt="Screenshot 10" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/11.png" alt="Screenshot 11" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/12.png" alt="Screenshot 12" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/13.png" alt="Screenshot 13" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/14.png" alt="Screenshot 14" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/15.png" alt="Screenshot 15" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/16.png" alt="Screenshot 16" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/17.png" alt="Screenshot 17" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/18.png" alt="Screenshot 18" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/19.png" alt="Screenshot 19" width="30%" style="margin: 10px;" />
+  <img src="assets/screenshots/20.png" alt="Screenshot 20" width="30%" style="margin: 10px;" />
+</p>  
 
 ---
 
-##  Getting Started
+## 🚀 Features  
 
-### Prerequisites
-- Flutter SDK installed — [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
-- A Firebase project setup with Auth, Firestore, and Storage enabled.
+- 🔐 **Authentication System** – User signup, login, and profile management  
+- 📝 **Create & Share Posts** – Upload text, images, and multimedia posts  
+- ❤️ **Engagement Features** – Like, comment, and share posts  
+- 💬 **Real-Time Chat** – One-to-one instant messaging  
+- 👤 **User Profiles** – Personalized profile with bio, picture, and posts  
+- 📱 **Responsive UI** – Clean, modern, and mobile-friendly design  
 
-### Setup
-```bash
-git clone https://github.com/NoorMustafa4556/Social-Media-App-Flutter.git
-cd Social-Media-App-Flutter
-flutter pub get
+---
+
+## 🛠️ Technology Stack  
+
+- **Framework:** [Flutter](https://flutter.dev/)  
+- **Language:** [Dart](https://dart.dev/)  
+- **Backend & Database:** Firebase / REST API (if connected)  
+- **Packages Used:**  
+  - `provider` – State management  
+  - `firebase_auth` – Authentication  
+  - `cloud_firestore` – Database  
+  - `firebase_storage` – Media storage  
+  - `image_picker` – Upload images  
+  - `http` – API requests  
+
+---
+
+## ⚡ Getting Started  
+
+### Prerequisites  
+- Install **Flutter SDK** → [Install Guide](https://docs.flutter.dev/get-started/install)  
+- Editor → VS Code / Android Studio  
+- Firebase Project (if backend enabled)  
+
+### Installation  
+
+1. Clone this repo  
+   ```bash
+   git clone https://github.com/NoorMustafa4556/Social-Media-App-Flutter.git
+   cd Social-Media-App-Flutter
