@@ -1,3 +1,4 @@
+
 # 📱 Flutter Social Media App  
 
 A **modern Flutter-based social media application** that allows users to connect, share, and interact in real-time.  
@@ -68,6 +69,77 @@ Built with **Flutter** and **Dart**, this project demonstrates the complete work
 ### Installation  
 
 1. Clone this repo  
-   ```bash
+
    git clone https://github.com/NoorMustafa4556/Social-Media-App-Flutter.git
    cd Social-Media-App-Flutter
+
+
+2. Install dependencies
+
+   ```bash
+   flutter pub get
+   ```
+
+3. Setup Firebase (if required)
+
+   * Add your `google-services.json` (Android)
+   * Add your `GoogleService-Info.plist` (iOS)
+
+4. Run the app
+
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+ ├── models/        # Data models (User, Post, Message)
+ ├── providers/     # State management with Provider
+ ├── screens/       # App UI screens
+ ├── widgets/       # Reusable widgets
+ ├── services/      # Firebase/API integration
+ └── main.dart      # Entry point
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! 🎉
+
+1. Fork the repo
+2. Create a new branch (`feature/YourFeature`)
+3. Commit your changes
+4. Push to your fork
+5. Open a Pull Request
+
+---
+
+## 👨‍💻 Author
+
+**Noor Mustafa**
+
+* 📍 Bahawalpur, Pakistan
+* 💼 Flutter Mobile App Developer
+* 🔗 [GitHub Profile](https://github.com/NoorMustafa4556)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Developed with ❤️ by Noor Mustafa**
+
+```
+
+---
+
+
+```
