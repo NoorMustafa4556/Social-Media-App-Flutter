@@ -9,27 +9,28 @@ Built with **Flutter** and **Dart**, this project demonstrates the complete work
 ## ✨ App Screenshots  
 
 <p align="center">
-  <img src="assets/screenshots/1.png" alt="Screenshot 1" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/2.png" alt="Screenshot 2" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/3.png" alt="Screenshot 3" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/4.png" alt="Screenshot 4" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/5.png" alt="Screenshot 5" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/6.png" alt="Screenshot 6" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/7.png" alt="Screenshot 7" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/8.png" alt="Screenshot 8" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/9.png" alt="Screenshot 9" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/10.png" alt="Screenshot 10" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/11.png" alt="Screenshot 11" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/12.png" alt="Screenshot 12" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/13.png" alt="Screenshot 13" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/14.png" alt="Screenshot 14" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/15.png" alt="Screenshot 15" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/16.png" alt="Screenshot 16" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/17.png" alt="Screenshot 17" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/18.png" alt="Screenshot 18" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/19.png" alt="Screenshot 19" width="30%" style="margin: 10px;" />
-  <img src="assets/screenshots/20.png" alt="Screenshot 20" width="30%" style="margin: 10px;" />
+  <img src="assets/images/1.png" alt="Screenshot 1" width="30%" style="margin: 10px;" />
+  <img src="assets/images/2.png" alt="Screenshot 2" width="30%" style="margin: 10px;" />
+  <img src="assets/images/3.png" alt="Screenshot 3" width="30%" style="margin: 10px;" />
+  <img src="assets/images/4.png" alt="Screenshot 4" width="30%" style="margin: 10px;" />
+  <img src="assets/images/5.png" alt="Screenshot 5" width="30%" style="margin: 10px;" />
+  <img src="assets/images/6.png" alt="Screenshot 6" width="30%" style="margin: 10px;" />
+  <img src="assets/images/7.png" alt="Screenshot 7" width="30%" style="margin: 10px;" />
+  <img src="assets/images/8.png" alt="Screenshot 8" width="30%" style="margin: 10px;" />
+  <img src="assets/images/9.png" alt="Screenshot 9" width="30%" style="margin: 10px;" />
+  <img src="assets/images/10.png" alt="Screenshot 10" width="30%" style="margin: 10px;" />
+  <img src="assets/images/11.png" alt="Screenshot 11" width="30%" style="margin: 10px;" />
+  <img src="assets/images/12.png" alt="Screenshot 12" width="30%" style="margin: 10px;" />
+  <img src="assets/images/13.png" alt="Screenshot 13" width="30%" style="margin: 10px;" />
+  <img src="assets/images/14.png" alt="Screenshot 14" width="30%" style="margin: 10px;" />
+  <img src="assets/images/15.png" alt="Screenshot 15" width="30%" style="margin: 10px;" />
+  <img src="assets/images/16.png" alt="Screenshot 16" width="30%" style="margin: 10px;" />
+  <img src="assets/images/17.png" alt="Screenshot 17" width="30%" style="margin: 10px;" />
+  <img src="assets/images/18.png" alt="Screenshot 18" width="30%" style="margin: 10px;" />
+  <img src="assets/images/19.png" alt="Screenshot 19" width="30%" style="margin: 10px;" />
+  <img src="assets/images/20.png" alt="Screenshot 20" width="30%" style="margin: 10px;" />
 </p>  
+
 
 ---
 
