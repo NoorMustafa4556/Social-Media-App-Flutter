@@ -120,7 +120,7 @@ Contributions are welcome! 🎉
 
 ---
 
-# 👋 Hi, I'm Noor Mustafa
+#  👋🏻 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
 
