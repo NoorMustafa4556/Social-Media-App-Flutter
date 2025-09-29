@@ -7,7 +7,6 @@ Built with **Flutter** and **Dart**, this project demonstrates the complete work
 ---
 
 
-
 ## ✨ App Screenshots  
 
 <p align="center">
